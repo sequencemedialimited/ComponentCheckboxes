@@ -11,15 +11,17 @@
           "_id": "page.checkboxes--checkboxes--checkbox.auto_name__1",
           "_type": "checkbox",
           "hint": "Checkbox hint text",
-          "label": "Yes",
-          "name": "auto_name__1"
+          "label": "One",
+          "name": "auto_name__1",
+          "value": "1"
         },
         {
           "_id": "page.checkboxes--checkboxes--checkbox.auto_name__2",
           "_type": "checkbox",
           "hint": "Checkbox hint text",
-          "label": "No",
-          "name": "auto_name__2"
+          "label": "Two",
+          "name": "auto_name__2",
+          "value": "2"
         }
       ],
       "legend": "Checkboxes"

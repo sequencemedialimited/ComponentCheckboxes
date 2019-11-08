@@ -4,7 +4,8 @@
   "heading": "Component - Checkboxes",
   "steps": [
     "page.checkboxes",
-    "page.check-answers"
+    "page.check-answers",
+    "page.confirmation"
   ],
   "url": "/"
 }
