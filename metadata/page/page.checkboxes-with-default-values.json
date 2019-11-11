@@ -1,0 +1,29 @@
+{
+  "_id": "page.checkboxes-with-default-values",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.checkboxes-with-default-values--checkboxes",
+      "_type": "checkboxes",
+      "hint": "Checkboxes hint text",
+      "items": [
+        {
+          "_id": "page.checkboxes-with-default-values--checkboxes--checkbox.auto_name__3",
+          "_type": "checkbox",
+          "hint": "Checkbox hint text",
+          "label": "One",
+          "name": "auto_name__3"
+        },
+        {
+          "_id": "page.checkboxes-with-default-values--checkboxes--checkbox.auto_name__4",
+          "_type": "checkbox",
+          "hint": "Checkbox hint text",
+          "label": "Two",
+          "name": "auto_name__4"
+        }
+      ],
+      "legend": "Checkboxes with default values"
+    }
+  ],
+  "url": "checkboxes-with-default-values"
+}

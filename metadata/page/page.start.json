@@ -4,6 +4,7 @@
   "heading": "Component - Checkboxes",
   "steps": [
     "page.checkboxes",
+    "page.checkboxes-with-default-values",
     "page.check-answers",
     "page.confirmation"
   ],
