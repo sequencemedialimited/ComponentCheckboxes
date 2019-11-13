@@ -8,20 +8,18 @@
       "hint": "Checkboxes hint text",
       "items": [
         {
-          "_id": "page.checkboxes--checkboxes--checkbox.auto_name__1",
+          "_id": "page.checkboxes--checkboxes--checkbox.auto_name__3",
           "_type": "checkbox",
           "hint": "Checkbox hint text",
           "label": "One",
-          "name": "auto_name__1",
-          "value": "1"
+          "name": "auto_name__3"
         },
         {
-          "_id": "page.checkboxes--checkboxes--checkbox.auto_name__2",
+          "_id": "page.checkboxes--checkboxes--checkbox.auto_name__4",
           "_type": "checkbox",
           "hint": "Checkbox hint text",
           "label": "Two",
-          "name": "auto_name__2",
-          "value": "2"
+          "name": "auto_name__4"
         }
       ],
       "legend": "Checkboxes"
